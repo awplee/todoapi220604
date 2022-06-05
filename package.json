@@ -1,0 +1,23 @@
+{
+  "name": "todoapi220604",
+  "version": "0.0.1",
+  "description": "ToDo List API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awplee/todoapi220604.git"
+  },
+  "author": "Lee Wai Po",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/awplee/todoapi220604/issues"
+  },
+  "homepage": "https://github.com/awplee/todoapi220604#readme",
+  "dependencies": {
+    "csprng": "^0.1.2",
+    "restify": "^8.6.1"
+  }
+}
