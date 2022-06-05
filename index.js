@@ -1,4 +1,5 @@
-#!/bin/bash
+#!/usr/local/bin/node
+
 'use strict'
 
 const rand = require('csprng')
